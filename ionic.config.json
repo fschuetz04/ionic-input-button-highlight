@@ -1,0 +1,7 @@
+{
+  "name": "input-with-button-highlight",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
